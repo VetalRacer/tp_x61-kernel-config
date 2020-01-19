@@ -1,0 +1,1 @@
+# tp_x61-kernel-config
